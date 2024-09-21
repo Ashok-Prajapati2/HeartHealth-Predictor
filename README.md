@@ -12,7 +12,7 @@ The Heart Health Predictor is a machine learning project designed to assess the 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
     git clone https://github.com/Ashok-Prajapati2/HeartHealth-Predictor.git
     cd HeartHealth-Predictor
@@ -20,6 +20,7 @@ The Heart Health Predictor is a machine learning project designed to assess the 
 Install the required dependencies:
 
     pip install -r requirements.txt
+    
 
 Usage
 Place your input data in the data/ directory.
