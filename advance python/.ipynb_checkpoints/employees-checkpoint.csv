@@ -1,0 +1,6 @@
+EmployeeID,Name,Age,Department,Salary,JoiningDate,City,Experience
+101,Alice,25,HR,50000,2019-06-20,New York,4
+102,Bob,30,IT,75000,2018-03-14,San Francisco,6
+103,Charlie,35,IT,80000,2017-11-22,Los Angeles,7
+104,Diana,28,Finance,62000,2020-01-10,Chicago,3
+105,Edward,45,HR,52000,2010-09-15,New York,14
